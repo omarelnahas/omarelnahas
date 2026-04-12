@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**omarelnahas/omarelnahas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineering student at Albert-Ludwigs-Universität Freiburg, 
+working as a Development Engineer at TEConcept GmbH.
 
-Here are some ideas to get you started:
+I focus on **industrial communication protocols**, **automated testing**, 
+and **autonomous robotics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I work with
+- **Languages:** C, C++, Python, x86 Assembly
+- **Protocols:** IO-Link, EtherCAT, ADS/AoE, Modbus RTU, UART, SPI, I2C, CAN
+- **Tools:** Robot Framework, pysoem, Git, TIA Portal, TwinCAT
+- **Platforms:** MSP430, ATmega32, ARM Cortex-M
+
+## 📌 Featured Projects
+- 🤖 [Autonomous Navigation for KaSyTwin Sewer Robot](link) — C++, IMU, LiDAR
+- 🖥️ [MSP430 Command Line Control System](link) — Embedded C, UART, ADC, PWM
+
+## 📫 Reach me
+oelnahas90@gmail.com · [LinkedIn](your-link)
