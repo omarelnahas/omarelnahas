@@ -17,4 +17,4 @@ and **autonomous robotics**.
 - 🖥️ [MSP430 Command Line Control System](link) — Embedded C, UART, ADC, PWM
 
 ## 📫 Reach me
-oelnahas90@gmail.com · [LinkedIn](your-link)
+oelnahas90@gmail.com · [LinkedIn]www.linkedin.com/in/omar-elnahas-3bb3a1220
