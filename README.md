@@ -7,14 +7,10 @@ I focus on **industrial communication protocols**, **automated testing**,
 and **autonomous robotics**.
 
 ## 🔧 What I work with
-- **Languages:** C, C++, Python, x86 Assembly
-- **Protocols:** IO-Link, EtherCAT, ADS/AoE, Modbus RTU, UART, SPI, I2C, CAN
-- **Tools:** Robot Framework, pysoem, Git, TIA Portal, TwinCAT
+- **Languages:** C, C++, Python, Lua, MATLAB
+- **Protocols:** IO-Link, Modbus RTU, EtherCAT, CANopen, ADS, UART, SPI, I2C, CAN, LIN, Ethernet/IP
+- **Tools & Frameworks:** Git/GitHub, VS Code, Eclipse, LTspice, Simulink, TIA Portal, TwinCat, Codesys, Wireshark, Robot Framework, PyTest, ROS2, CMake/Make, StrictDoc 
 - **Platforms:** MSP430, ATmega32, ARM Cortex-M
-
-## 📌 Featured Projects
-- 🤖 [Autonomous Navigation for KaSyTwin Sewer Robot](link) — C++, IMU, LiDAR
-- 🖥️ [MSP430 Command Line Control System](link) — Embedded C, UART, ADC, PWM
 
 ## 📫 Reach me
 oelnahas90@gmail.com · [LinkedIn] www.linkedin.com/in/omar-elnahas-3bb3a1220
