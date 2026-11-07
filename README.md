@@ -1,9 +1,6 @@
 # Hi, I'm Omar 👋
 
-Embedded Systems Engineering student at Albert-Ludwigs-Universität Freiburg, 
-working as a Development Engineer at TEConcept GmbH.
-
-I focus on **industrial communication protocols**, **automated testing**, 
+An embedded systems engineer with a focus on **industrial communication protocols**, **automated testing**, 
 and **autonomous robotics**.
 
 ## 🔧 What I work with
